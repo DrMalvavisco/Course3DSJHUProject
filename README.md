@@ -8,7 +8,7 @@ We followed the 5 steps specified in the project's definition:
 ### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
 ## Dataset
-[Dataset UCI HAR] ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  )
+[Dataset UCI HAR](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ## Files
 - README.md a description of the contents of this repository.

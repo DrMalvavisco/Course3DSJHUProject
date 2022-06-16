@@ -1,7 +1,7 @@
 This is the codebook for the Getting and Cleaning data Course
 
 ## Download the dataset
-[The dataset UCI HAR was downloaded via this url]( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  )
+[The dataset UCI HAR was downloaded via this url](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ## Extracting the data from the files
 For more infomation about the .txt files please read the README file in the "UCI HAR Dataset" directory
